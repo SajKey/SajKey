@@ -1,7 +1,7 @@
 ### Hi there 👋 I’m Ilya Shtykov - aka SajKey🐉
 ---
-- 💻 I’m currently learning at the Yandex.Practicum's "Data Science Specialist" course.
-- 💼 I’m looking for a job in the field of data analysis.
+- 💻 I’m  сompleted  at the Yandex.Practicum "Data Science Specialist" course. 
+- 💼 I work for the company "Tander" (better known in Russia as "Magnit") as a chief specialist of control analysis and reporting.
 - 📫 How to reach me:
   - Email: shtykov_i@bk.ru
   - Telegram: https://t.me/shtikovkin
