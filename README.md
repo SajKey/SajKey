@@ -8,7 +8,9 @@
 
 
 ## About me:
-I am a data analyst with 2 years of experience. I am proficient in Excel (pivot tables, vlookup), Python (pandas, numpy, matplotlib), SQL and visualization tools (DataLens). I studied Data Science in a course from Yandex.I am familiar with the basics of machine learning. He has implemented projects on automation of reporting and development of Telegram bots. I am interested in freelancing and want to apply my knowledge in various projects, creating useful solutions.
+A data analyst with 2+ years of experience in automation of reporting, visualization and working with SQL/Python. I optimize processes, reduce routine, and turn data into understandable business solutions. I have experience in retail and building dashboards. I rely on Python, SQL, Excel, and Power BI/ DataLens for my work.
+
+I am constantly developing my technical skills and am interested in how to make data useful for business. I prefer projects where you can not only analyze, but also create tools that bring specific benefits to the team and business.
 
 ## Languages and Tools:
 
