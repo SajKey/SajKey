@@ -1,6 +1,5 @@
 ### Hi there 👋 I’m Ilya Shtykov - aka SajKey🐉
 ---
-- 💻 I’m  сompleted  at the Yandex.Practicum "Data Science Specialist" course. 
 - 💼 I work for the company "Tander" (better known in Russia as "Magnit") as a Business Analyst.
 - 📫 How to reach me:
   - Email: shtykov_i@bk.ru
@@ -8,9 +7,15 @@
 
 
 ## About me:
-A data analyst with 2+ years of experience in automation of reporting, visualization and working with SQL/Python. I optimize processes, reduce routine, and turn data into understandable business solutions. I have experience in retail and building dashboards. I rely on Python, SQL, Excel, and Power BI/ DataLens for my work.
+An analyst with experience in automating reporting and cost control. I specialize in:
 
-I am constantly developing my technical skills and am interested in how to make data useful for business. I prefer projects where you can not only analyze, but also create tools that bring specific benefits to the team and business.
+Creating tools for analyzing large amounts of data
+
+Speeding up reporting processes
+
+Data visualization in Power BI and DataLens
+
+I am ready to solve complex tasks using Python, SQL and Excel. I am distinguished by my responsibility and ability to quickly master new technologies.
 
 ## Languages and Tools:
 
